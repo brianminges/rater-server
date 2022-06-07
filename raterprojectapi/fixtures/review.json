@@ -1,0 +1,42 @@
+[
+    {
+        "model": "raterprojectapi.review",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "gamer": 1,
+            "comment": "I love Blinky. Blinky4Life!",
+            "rating": 5 
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 2,
+        "fields": {
+            "game": 1,
+            "gamer": 1,
+            "comment": "Clyde cheats. I hate Clyde.",
+            "rating": 2 
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 3,
+        "fields": {
+            "game": 2,
+            "gamer": 1,
+            "comment": "The music gets annoying. Needs a better soundtrack. My band is available.",
+            "rating": 4 
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 4,
+        "fields": {
+            "game": 3,
+            "gamer": 1,
+            "comment": "Graphics are horrible.",
+            "rating": 2
+        }
+    }
+]
