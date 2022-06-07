@@ -1,0 +1,29 @@
+[
+    {
+        "model": "raterprojectapi.picture",
+        "pk": 1,
+        "fields": {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Typical_Tetris_Game.svg/1200px-Typical_Tetris_Game.svg.png",
+            "gamer": 1,
+            "game": 2
+        }
+    },
+    {
+        "model": "raterprojectapi.picture",
+        "pk": 2,
+        "fields": {
+            "image": "https://media.wired.com/photos/5926ae95cefba457b079acf4/master/w_2560%2Cc_limit/DonkeyKong_TA.jpg",
+            "gamer": 1,
+            "game": 3
+        }
+    },
+    {
+        "model": "raterprojectapi.picture",
+        "pk": 3,
+        "fields": {
+            "image": "http://cdn.cnn.com/cnnnext/dam/assets/200518114838-05-pac-man-40.jpg",
+            "gamer": 1,
+            "game": 1
+        }
+    }
+]

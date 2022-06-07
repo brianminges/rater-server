@@ -1,5 +1,6 @@
 [FORMAT] 
   good-names=i,j,ex,pk
+  load-plugins=pylint.extensions.no_self_use
 
 [MESSAGES CONTROL]
   disable=broad-except,imported-auth-user,missing-class-docstring,no-self-use,abstract-method
