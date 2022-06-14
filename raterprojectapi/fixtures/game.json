@@ -3,36 +3,42 @@
         "model": "raterprojectapi.game",
         "pk": 1,
         "fields": {
+            "gamer": 1,
             "title": "Pac-Man",
             "description": "Chop the bits and avoid the ghosts.",
             "designer": "Toru Iwatani",
             "released": "1980-05-22",
             "num_of_players": 1,
-            "age_recommended": 5
+            "age_recommended": 5,
+            "categories": []
         }
     },
     {
         "model": "raterprojectapi.game",
         "pk": 2,
         "fields": {
+            "gamer": 1,
             "title": "Tetris",
             "description": "Build blocks to build rows",
             "designer": "Alexey Pajitnov",
             "released": "1984-06-06",
             "num_of_players": 1,
-            "age_recommended": 8
+            "age_recommended": 8,
+            "categories": []
         }
     },
     {
         "model": "raterprojectapi.game",
         "pk": 3,
         "fields": {
+            "gamer": 1,
             "title": "Donkey Kong",
             "description": "Watch out for apes",
             "designer": "Shigeru Miyamoto",
             "released": "1981-07-09",
             "num_of_players": 2,
-            "age_recommended": 6
+            "age_recommended": 6,
+            "categories": []
         }
     }
 ]
